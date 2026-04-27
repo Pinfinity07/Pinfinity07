@@ -9,7 +9,7 @@ not just code that runs locally.
 
 [![Portfolio](https://img.shields.io/badge/Vaultly-Live_App-4CAF50?style=flat-square&logo=vercel&logoColor=white)](https://vaultly-one.vercel.app/)
 [![ML Project](https://img.shields.io/badge/Vehicle_Predictor-HuggingFace-FF9D00?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/kaori02/vehicle-maintenance-predictor)
-[![Email](https://img.shields.io/badge/Get_In_Touch-Email-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Get_In_Touch-Email-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:mananbansal238@gmail.com)
 
 </div>
 
