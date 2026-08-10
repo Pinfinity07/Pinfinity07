@@ -1,5 +1,5 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1E293B,50:38BDF8,100:2DD4BF&text=Manan%20Bansal&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Developer&descAlignY=58&descSize=18&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1E293B,50:38BDF8,100:2DD4BF&text=Manan%20Bansal&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Full-Stack%20/%20Backend%20Developer&descAlignY=58&descSize=18&section=header" />
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 
 <br/>
 
-2nd-year B.Tech (CS & AI) student at Newton School of Technology, Rishihood University, graduating 2028.
+3rd-year B.Tech (CS & AI) student at Newton School of Technology, Rishihood University, graduating 2028.
 
 I build complete, deployed web applications — from the database up through the UI — rather than local-only demos. Comfortable across the stack: React and Next.js on the front end, Node.js and Express on the back, SQL underneath. I pick up new tools fastest by building with them.
 
