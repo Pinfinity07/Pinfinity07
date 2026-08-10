@@ -1,185 +1,109 @@
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1E293B,50:38BDF8,100:2DD4BF&text=Manan%20Bansal&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Developer&descAlignY=58&descSize=18&section=header" />
+</div>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=38BDF8&vCenter=true&repeat=true&width=650&lines=Building+full-stack+apps+that+ship;React+%2B+Node.js+%2B+TypeScript+%2B+SQL;Looking+for+full-stack+%2F+backend+internships)](https://git.io/typing-svg)
+
+<br/>
+
+2nd-year B.Tech (CS & AI) student at Newton School of Technology, Rishihood University, graduating 2028.
+
+I build complete, deployed web applications — from the database up through the UI — rather than local-only demos. Comfortable across the stack: React and Next.js on the front end, Node.js and Express on the back, SQL underneath. I pick up new tools fastest by building with them.
+
+Off-screen, I'm a national bronze medalist in skating hockey — the same discipline that goes into training shows up in how I ship.
+
+<br/>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8DBE,100:7FB9A8&height=180&section=header&text=Manan%20Bansal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Developer&descAlignY=58&descSize=18" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=5B8DBE&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+that+actually+ship;React+%2B+Node.js+%2B+TypeScript+%2B+SQL;Currently+looking+for+backend%2Ffull-stack+internships)](https://git.io/typing-svg)
-
-<br/>
-
-[![Vaultly](https://img.shields.io/badge/Vaultly-Live_App-5B8DBE?style=for-the-badge&logo=vercel&logoColor=white)](https://vaultly-one.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-7FB9A8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mananbansal238@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B8DBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manan-bansal-747918323/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/manan-bansal-747918323/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mananbansal238@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/PinQusestion/)
+[![Vaultly](https://img.shields.io/badge/Vaultly-Live_App-2DD4BF?logo=vercel&logoColor=white&style=for-the-badge)](https://vaultly-one.vercel.app/)
 
 </div>
 
 <br/>
 
-## About Me
-
-- 🎯 Looking for **full-stack / backend internships** at product companies and startups
-- 🛠️ I build complete, deployed applications — not local-only demos
-- 📚 2nd-year B.Tech (CS & AI) at Newton School of Technology, Rishihood University · Class of 2028
-- ⚡ Comfortable across the stack: React/Next.js on the front, Node.js/Express on the back, SQL underneath
-- 🥉 National bronze medalist, skating hockey — discipline and competing under pressure translate well to shipping under deadlines
-
-<br/>
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-5B8DBE?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7FB9A8?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-5B8DBE?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-5B8DBE?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-3E4C59?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-7FB9A8?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-5B8DBE?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3E4C59?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-7FB9A8?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-3E4C59?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-5B8DBE?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-3E4C59?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5B8DBE?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3E4C59?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-7FB9A8?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-5B8DBE?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-3E4C59?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=redux" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="55" />
+</div>
 
 <br/>
 
-## Featured Projects
+---
 
 <br/>
 
-<table>
-<tr>
-<td width="100%">
+### Vaultly — Collaborative Finance Tracker
+[Live](https://vaultly-one.vercel.app/) · [Source](https://github.com/Pinfinity07/Vaultly)
 
-### 🔹 [Vaultly](https://github.com/Pinfinity07/Vaultly) — Collaborative Finance Tracker
-[![Live](https://img.shields.io/badge/Live_Demo-7FB9A8?style=flat-square&logo=vercel&logoColor=white)](https://vaultly-one.vercel.app/)
-
-Full-stack expense-tracking app for personal and shared group finances.
-
-- **Auth** — JWT + Google OAuth 2.0, secure httpOnly cookies
-- **Expenses** — search, filter, sort, and paginate across all records
-- **Groups** — shared savings goals with contribution tracking
-- **Reports** — interactive charts, exportable PDF/CSV
-- **Architecture** — RESTful API on Prisma/PostgreSQL, Next.js App Router (server + client components), Zustand for state, GSAP for a mobile-first UI
+Full-stack app for tracking personal and shared group expenses. JWT auth with Google OAuth 2.0 and httpOnly cookies, search/filter/paginate across records, shared savings goals with contribution tracking, and interactive reports exportable as PDF/CSV. Built on a RESTful API over Prisma/PostgreSQL with a Next.js App Router front end, Zustand for state, and GSAP for a mobile-first UI.
 
 `Next.js` `React` `Node.js` `Express` `PostgreSQL` `Prisma ORM` `Zustand` `Tailwind CSS` `JWT`
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-<table>
-<tr>
-<td width="100%">
+### BlogApp — Blog Publishing Platform
+[Live](https://blogspacep.netlify.app/) · [Source](https://github.com/Pinfinity07/BlogApp)
 
-### 🔹 [BlogApp](https://github.com/Pinfinity07/BlogApp) — Blog Publishing Platform
-[![Live](https://img.shields.io/badge/Live_Demo-7FB9A8?style=flat-square&logo=netlify&logoColor=white)](https://blogspacep.netlify.app/)
-
-Responsive platform for writing and publishing posts, with accounts and a clean reading experience.
-
-- Redux Toolkit for centralized state management
-- TinyMCE rich text editor with real-time statistics
-- Appwrite backend for authentication and storage
-- Hacktoberfest 2025 contributor — Pull Shark & Quickdraw badges
+Responsive platform for writing and publishing posts, with user accounts and a clean reading experience. Redux Toolkit for state, TinyMCE for rich text editing with live stats, Appwrite for auth and storage. Hacktoberfest 2025 contribution — earned Pull Shark and Quickdraw badges.
 
 `React` `Redux Toolkit` `Appwrite` `TinyMCE` `Tailwind CSS` `Vite`
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-<table>
-<tr>
-<td width="100%">
+### Agentic Fleet Management System — Backend Pipeline & Systems Design
+[Live Demo](https://huggingface.co/spaces/kaori02/vehicle-maintenance-predictor) · [Source](https://github.com/Pinfinity07/vehicle-maintenance-predictor)
 
-### 🔹 [Agentic Fleet Management System](https://github.com/Pinfinity07/vehicle-maintenance-predictor) — Backend Pipeline & Systems Design
-[![Live Demo](https://img.shields.io/badge/Live_Demo-5B8DBE?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/kaori02/vehicle-maintenance-predictor)
-
-A two-stage system showing backend/pipeline engineering beyond typical CRUD apps: a trained ML model wrapped in a stateful, multi-node service with retrieval and structured output — the same architectural thinking (state machines, orchestration, testing) that backend and platform work draws on.
-
-- Decision Tree with GridSearchCV tuning (5-fold Stratified CV), SMOTE for class imbalance
-- LangGraph state machine with 10 nodes and conditional routing
-- FAISS retrieval pipeline over two separate corpora
-- Groq/Llama 3.3 70B for structured JSON report generation
-- 28 pytest cases covering edge cases and end-to-end flows
-- Deployed with graceful fallback handling
+A trained ML model wrapped in a stateful, multi-node service — the same orchestration, testing, and state-machine thinking that backend work draws on. LangGraph state machine with 10 nodes and conditional routing, FAISS retrieval over two corpora, structured JSON generation via Groq/Llama 3.3 70B, and 28 pytest cases covering edge cases end-to-end.
 
 `Python` `LangGraph` `FAISS` `scikit-learn` `pytest`
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-## Achievements
-
-🥉 **National Bronze Medalist — Skating Hockey**
-Competed at the national level representing my state.
-
-🎉 **Hacktoberfest 2025 Contributor**
-Pull Shark & Quickdraw badges — active open-source contributor.
+---
 
 <br/>
-
-## GitHub Stats
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pinfinity07&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8&background=00000000" height="150" />
+</div>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pinfinity07&show_icons=true&hide_border=true&bg_color=00000000&title_color=5B8DBE&icon_color=7FB9A8&text_color=3E4C59&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinfinity07&layout=compact&hide_border=true&bg_color=00000000&title_color=5B8DBE&text_color=3E4C59&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinfinity07&hide_border=true&background=00000000&ring=5B8DBE&fire=7FB9A8&currStreakLabel=5B8DBE" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pinfinity07&bg_color=00000000&color=38BDF8&line=38BDF8&point=2DD4BF&area=true&area_color=1E293B&hide_border=true" width="95%" />
 </div>
 
 <br/>
 
-## Let's Connect
-
-Actively looking for remote or on-site internships in full-stack or backend development. Happy to talk about anything you're building.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/mananbansal238@gmail.com-5B8DBE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mananbansal238@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7FB9A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manan-bansal-747918323/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-3E4C59?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/PinQusestion/)
-
-<sub>Open to full-stack / backend internships · India</sub>
-
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:2DD4BF,50:38BDF8,100:1E293B" />
 </div>
